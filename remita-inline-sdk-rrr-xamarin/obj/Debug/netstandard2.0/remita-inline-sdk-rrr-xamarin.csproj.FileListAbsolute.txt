@@ -1,0 +1,15 @@
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\bin\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.deps.json
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\bin\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.dll
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\bin\Debug\netstandard2.0\ref\remita-inline-sdk-rrr-xamarin.dll
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\bin\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.pdb
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.csproj.AssemblyReference.cache
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.GeneratedMSBuildEditorConfig.editorconfig
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.AssemblyInfoInputs.cache
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.AssemblyInfo.cs
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.csproj.CoreCompileInputs.cache
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.dll
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\ref\remita-inline-sdk-rrr-xamarin.dll
+D:\remita-inline-sdk-rrr-xamarin\remita-inline-sdk-rrr-xamarin\obj\Debug\netstandard2.0\remita-inline-sdk-rrr-xamarin.pdb
