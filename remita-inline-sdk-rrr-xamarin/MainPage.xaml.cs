@@ -18,9 +18,10 @@ namespace remita_inline_sdk_rrr_xamarin
 
         async void OnButtonClicked(object sender, EventArgs e)
         {
-            string rrr = editor.Text.Trim(); 
-            //string rrr = "160008273205";
-            string url = "https://remitademo.net";
+            string rrr = editor.Text.Trim();
+            string DEMO = "https://remitademo.net";
+            string PRODUCTION = "https://login.remita.net";
+            string url = DEMO;
             string key = "QzAwMDAzNTQ0MDh8Nzg2Mzc0MTY1MnxhNjBlOTRjNTk0MjU3OTJlYjA1YjQzNGY0YzAyMTA1YWFhNzRiZGM2MzViZTIwMzY2ZTAxMzQyZDNhYWZiNGUxMDVjNTRkMDNmMjBkZjY4ZGYzYzdmMmY4ODU5YzNiOTk2OGI3MmFiODQ3NTUyNTYyNmVhYTQ2NDFjYmUwNTE5NA==";
            
             var htmlSource = new HtmlWebViewSource();
