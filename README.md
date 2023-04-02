@@ -19,7 +19,6 @@ The following pages outlines the steps to integrating Remita Inline Payment SDK 
 ** **
 
 
-
 # 2.0         TRY IT NOW
 
 **Sample Code:**
